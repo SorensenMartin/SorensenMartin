@@ -1,6 +1,6 @@
 # Hi there, I'm Martin Sørensen! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-martinsorensen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martinsorensen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-martinsorensen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-s%C3%B8rensen-34668827a/)
 [![Høyskolen Kristiania](https://img.shields.io/badge/Studying-Bachelor%20at%20H%C3%B8yskolen%20Kristiania-red)](https://www.hioa.no/)
 [![Chelsea FC](https://img.shields.io/badge/Favorite%20Football%20Club-Chelsea%20FC-blue)](https://www.chelseafc.com/)
 
