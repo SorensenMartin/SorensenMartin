@@ -6,7 +6,7 @@
 
 ## ❓ About Me 
 
-I'm an enthusiastic Software Development student, constantly exploring new technologies and eager to grasp the unexplored.
+I'm an enthusiastic Software Developer working as fullstack with .NET Core and Angular at Millum, constantly exploring new technologies and eager to grasp the unexplored. 
 
 - 🎮 I enjoy playing all kinds of games in my spare time, from video games and boardgames, to physical activities. I even try to make my own games in Unity some times!
 - ⛳️ An avid golfer, who appreciates the serenity of the course and aspires to improve my game.
@@ -14,7 +14,7 @@ I'm an enthusiastic Software Development student, constantly exploring new techn
 
 ## 🎓 Education 
 
-Currently pursuing a Bachelor's Degree in Computer Science from Høyskolen Kristiania.
+Bachelor's Degree in Computer Science from Høyskolen Kristiania.
 
 ## 💼 Technical Skills
 
